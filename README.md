@@ -24,6 +24,8 @@ the concepts and logic behind software development, then adopting new technologi
 
 The backend of the application is made up of various microservices built with Laravel and a frontend built with ReactJS. <br/><br/>
 
+The iLetters project can be viewed on the following link: https://github.com/MlamliLolwane/iLetters <br/> <br/>
+
 #### I am actively job seeking and can be reached on the following platforms:
 
 Email: mrlolwane96@gmail.com <br/>
