@@ -2,7 +2,7 @@
 
 
 
-My name is Mlamli Lolwane, a fullstack developer whose focus is on building scalable as well as high performance applications. 
+My name is Mlamli Lolwane, a fullstack developer who is passionate about developing scalable, high-performance applications that enhance user experiences and solve real-world problems.
 
 I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University. 
 
@@ -10,30 +10,26 @@ I obtained my National Diploma in Information Technology (Software Development) 
 
 ## 📌 What I’m Working On
 
-I am currently working on the <a href="https://bigodeals.net" target="_blank" rel="noopener noreferrer"> Big O Deals application </a> which is a platform that compiles the best affiliate marketing links for customers
-to offer them access to exclusive discounts and promotions. <br/>
-
-You can view a video demo of the application on [YouTube](https://youtube.com/MlamliLolwane1)
-which will give you an all round view of both the client and admin applications.
-Source code to the projects is available on request.
+I’m currently working on Big O Deals, a platform that aggregates top affiliate marketing deals, providing customers with exclusive discounts.
+🎥 [Watch the Demo on YouTube](https://youtube.com/MlamliLolwane1) (Demo showcasing both the client and admin applications).
+🛠️ Source code available upon request.
 
 <br/>
 
-## 🔎 I am actively job seeking
+## 🚀 Open to Work!
 
-Currently, I'm on the lookout for new full-time, contract, or freelance opportunities. If you're hiring or know of an exciting project, let’s connect!
+I’m actively looking for full-time, contract, or freelance opportunities in fullstack, backend or frontend development. If you're hiring or know of an exciting project, let’s connect!
 
-Email: mrlolwane96@gmail.com <br/>
-Cellphone: 068 215 2904 <br/>
-LinkedIn: [www.linkedin.com/in/mlamli-lolwane-3ba96b196](www.linkedin.com/in/mlamli-lolwane-3ba96b196)
-
-Curriculum Vitae: https://bit.ly/3nzqyg8 <br/> <br/>
+📧 Email: mrlolwane96@gmail.com <br/>
+📞 Cellphone: 068 215 2904 <br/>
+🔗 LinkedIn: [www.linkedin.com/in/mlamli-lolwane-3ba96b196](www.linkedin.com/in/mlamli-lolwane-3ba96b196)
+📄 Curriculum Vitae: https://bit.ly/3nzqyg8 <br/> <br/>
 
 ## 💻 Tech Stack
 
-Backend: [Laravel, ASP.NET Core, Node.js]. <br/>
-Frontend: [ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS]. <br/>
-Databases: [MySQL, SQL Server, Redis, Mongo DB]. <br/>
+Backend: Laravel, ASP.NET Core, Node.js. <br/>
+Frontend: ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS. <br/>
+Databases: MySQL, SQL Server, Redis, Mongo DB. <br/>
 
 <br/>
 
