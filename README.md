@@ -6,13 +6,15 @@ My name is Mlamli Lolwane, a fullstack developer who is passionate about develop
 I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University. 
 <br/>
 
+
 ## 📌 What I’m Working On
 
 <br/>
 I’m currently working on Big O Deals, a platform that aggregates top affiliate marketing deals, providing customers with exclusive discounts. <br/>
-🎥 <a href="https://youtube.com/MlamliLolwane1"> Watch the Demo on YouTube </a> (Demo showcasing both the client and admin applications).
+🎥 <a href="https://youtube.com/MlamliLolwane1"> Watch the Demo on YouTube </a> (Demo showcasing both the client and admin applications). <br/>
 🛠️ Source code available upon request.
 <br/>
+
 
 ## 🚀 Open to Work!
 
@@ -25,6 +27,7 @@ I’m actively looking for full-time, contract, or freelance opportunities in fu
 🔗 LinkedIn: [www.linkedin.com/in/mlamli-lolwane-3ba96b196](www.linkedin.com/in/mlamli-lolwane-3ba96b196)
 📄 Curriculum Vitae: https://bit.ly/3nzqyg8 
 <br/>
+
 
 ## 💻 Tech Stack
 
