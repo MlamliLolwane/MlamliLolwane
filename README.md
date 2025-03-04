@@ -2,9 +2,8 @@
 
 
 
-#### My name is Mlamli Lolwane, a fullstack developer whose focus is on building scalable as well as high performance applications. 
-
-#### I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University. 
+My name is Mlamli Lolwane, a fullstack developer whose focus is on building scalable as well as high performance applications. 
+I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University. 
 
 <br/>
 
