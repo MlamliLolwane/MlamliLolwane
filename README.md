@@ -1,13 +1,13 @@
 ## :wave: Hi and welcome to my GitHub profile. 
 <br/>
 
-
 My name is Mlamli Lolwane, a fullstack developer who is passionate about developing scalable, high-performance applications that enhance user experiences and solve real-world problems.
 
 I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University. 
 <br/>
 
 ## 📌 What I’m Working On
+<br/>
 
 I’m currently working on Big O Deals, a platform that aggregates top affiliate marketing deals, providing customers with exclusive discounts.
 🎥 [Watch the Demo on YouTube](https://youtube.com/MlamliLolwane1) (Demo showcasing both the client and admin applications).
