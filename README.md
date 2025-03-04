@@ -19,7 +19,7 @@ Source code to the projects is available on request.
 
 <br/>
 
-## I am actively job seeking
+## 🔎 I am actively job seeking
 
 Currently, I'm on the lookout for new full-time, contract, or freelance opportunities. If you're hiring or know of an exciting project, let’s connect!
 
