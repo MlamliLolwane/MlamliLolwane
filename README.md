@@ -1,5 +1,4 @@
 ## :wave: Hi and welcome to my GitHub profile. 
-
 <br/>
 
 My name is Mlamli Lolwane, a fullstack developer who is passionate about developing scalable, high-performance applications that enhance user experiences and solve real-world problems.
