@@ -1,8 +1,8 @@
-### Hi and welcome to my GitHub profile.
+## :wave: Hi and welcome to my GitHub profile.
 
 
 
-My name is Mlamli Lolwane, a fullstack developer whose focus is on building scalable as well as high performance applications. :wave:
+My name is Mlamli Lolwane, a fullstack developer whose focus is on building scalable as well as high performance applications. 
 
 I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University.:mortar_board:
 
@@ -10,9 +10,9 @@ I obtained my National Diploma in Information Technology (Software Development) 
 
 ## 💻 Tech Stack
 
-Heavy Lifting: [Laravel, ASP.NET Core, Node.js]
-Nicey Nice: [ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS].
-Databases: [MySQL, SQL Server, Redis, Mongo DB]
+Heavy Lifting: [Laravel, ASP.NET Core, Node.js]. <br/>
+Nicey Nice: [ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS]. <br/>
+Databases: [MySQL, SQL Server, Redis, Mongo DB]. <br/>
 
 <br/>
 
