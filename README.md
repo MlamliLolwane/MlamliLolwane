@@ -31,9 +31,9 @@ I’m actively looking for full-time, contract, or freelance opportunities in fu
 
 ## 💻 Tech Stack
 
-Backend: Laravel, ASP.NET Core, Node.js. <br/>
-Frontend: ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS. <br/>
-Databases: MySQL, SQL Server, Redis, Mongo DB.
+⚙️ Backend: Laravel, ASP.NET Core, Node.js. <br/>
+🎨 Frontend: ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS. <br/>
+🛢️ Databases: MySQL, SQL Server, Redis, Mongo DB.
 <br/>
 
 *I am not only limited to the above mentioned technologies and frameworks as I believe that once you understand
