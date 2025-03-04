@@ -21,8 +21,11 @@ Source code to the projects is available on request.
 
 ## I am actively job seeking
 
+Currently, I'm on the lookout for new full-time, contract, or freelance opportunities. If you're hiring or know of an exciting project, let’s connect!
+
 Email: mrlolwane96@gmail.com <br/>
 Cellphone: 068 215 2904 <br/>
+LinkedIn: [www.linkedin.com/in/mlamli-lolwane-3ba96b196](www.linkedin.com/in/mlamli-lolwane-3ba96b196)
 
 Curriculum Vitae: https://bit.ly/3nzqyg8 <br/> <br/>
 
