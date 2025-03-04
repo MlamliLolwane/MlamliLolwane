@@ -8,6 +8,13 @@
 
 <br/>
 
+### I am actively job seeking and can be reached on the following platforms:
+
+Email: mrlolwane96@gmail.com <br/>
+Cellphone: 068 215 2904 <br/>
+
+Curriculum Vitae: https://bit.ly/3nzqyg8 <br/> <br/>
+
 ## 💻 Tech Stack
 
 Heavy Lifting: [Laravel, ASP.NET Core, Node.js]. <br/>
@@ -27,13 +34,6 @@ to offer them access to exclusive discounts and promotions. <br/>
 You can view a video demo of the application on <a href="youtube.com/mlamlilolwane"> Youtube </a> which will give you an all round view of both the client and admin applications.
 Source code to the projects is available on request.
 
-
-#### I am actively job seeking and can be reached on the following platforms:
-
-Email: mrlolwane96@gmail.com <br/>
-Cellphone: 068 215 2904 <br/>
-
-Curriculum Vitae: https://bit.ly/3nzqyg8 <br/> <br/>
 
 ---
 
