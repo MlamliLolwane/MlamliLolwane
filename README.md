@@ -16,6 +16,8 @@ to offer them access to exclusive discounts and promotions. <br/>
 You can view a video demo of the application on <a href="youtube.com/mlamlilolwane"> Youtube </a> which will give you an all round view of both the client and admin applications.
 Source code to the projects is available on request.
 
+<br/>
+
 ### I am actively job seeking and can be reached on the following platforms:
 
 Email: mrlolwane96@gmail.com <br/>
