@@ -20,7 +20,7 @@ I’m currently working on Big O Deals, a platform that aggregates top affiliate
 
 <br/>
 
-I’m actively looking for full-time, contract, or freelance opportunities in fullstack, backend or frontend development. If you're hiring or know of an exciting project, let’s connect!
+I’m actively looking for full-time, contract, or freelance opportunities in fullstack, backend, or frontend development. If you're hiring or know of an exciting project, let’s connect!
 
 📧 Email: mrlolwane96@gmail.com <br/>
 📞 Cellphone: 068 215 2904 <br/>
