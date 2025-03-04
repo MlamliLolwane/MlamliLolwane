@@ -28,8 +28,8 @@ Curriculum Vitae: https://bit.ly/3nzqyg8 <br/> <br/>
 
 ## 💻 Tech Stack
 
-Heavy Lifting: [Laravel, ASP.NET Core, Node.js]. <br/>
-Nicey Nice: [ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS]. <br/>
+Backend: [Laravel, ASP.NET Core, Node.js]. <br/>
+Frontend: [ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS]. <br/>
 Databases: [MySQL, SQL Server, Redis, Mongo DB]. <br/>
 
 <br/>
