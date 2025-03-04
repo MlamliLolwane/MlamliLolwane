@@ -13,7 +13,7 @@
 I am currently working on the <a href="https://bigodeals.net" target="_blank" rel="noopener noreferrer"> Big O Deals </a> application which is a platform that compiles the best affiliate marketing links for customers
 to offer them access to exclusive discounts and promotions. <br/>
 
-You can view a video demo of the application on [Youtube](https://www.geeksforgeeks.org/){:target="_blank"} 
+You can view a video demo of the application on [go][my-go-link]{:target="_blank" rel="noopener"}
 which will give you an all round view of both the client and admin applications.
 Source code to the projects is available on request.
 
