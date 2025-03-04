@@ -2,21 +2,22 @@
 
 
 
-My name is Mlamli Lolwane, a fullstack developer from a small town in the North West province called Mahikeng. :wave:
+My name is Mlamli Lolwane, a fullstack developer whose focus is on building scalable as well as high performance applications. :wave:
 
-I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University in 2018.:mortar_board:
+I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University.:mortar_board:
 
 <br/>
 
-The technologies that I work with are as follows: `[PHP, C#, DartLanguage, VisualBasics, JavaScript, HTML, CSS]`. :hammer:
+## 💻 Tech Stack
 
-
-The frameworks I use include: `[Laravel, ASP.NET, ReactJS, VueJS, Bootstrap]`. :wrench:
+Heavy Lifting: [Laravel, ASP.NET Core, Node.js]
+Nicey Nice: [ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS].
+Databases: [MySQL, SQL Server, Redis, Mongo DB]
 
 <br/>
 
 *I am not only limited to the above mentioned technologies and frameworks as I believe that once you understand
-the concepts and logic behind software development, then adopting new technologies, frameworks and tools should not be an uphill walk.* <br/><br/>
+the concepts and logic behind software development, then adopting new technologies, frameworks and tools should be fairly easy.* <br/><br/>
 
 
 #### I am actively job seeking and can be reached on the following platforms:
