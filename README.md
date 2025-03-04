@@ -10,7 +10,7 @@ I obtained my National Diploma in Information Technology (Software Development) 
 
 ## 📌 What I’m Working On
 
-I am currently working on the <a href="https://bigodeals.net" target="_blank" rel="noopener noreferrer"> Big O Deals </a> application which is a platform that compiles the best affiliate marketing links for customers
+I am currently working on the <a href="https://bigodeals.net" target="_blank" rel="noopener noreferrer"> Big O Deals application </a> which is a platform that compiles the best affiliate marketing links for customers
 to offer them access to exclusive discounts and promotions. <br/>
 
 You can view a video demo of the application on [YouTube](https://youtube.com/MlamliLolwane1)
