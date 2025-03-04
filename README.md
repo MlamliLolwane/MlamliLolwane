@@ -10,10 +10,10 @@
 
 ## 📌 What I’m Working On
 
-I am currently working on the [Big O Deals](bigodeals.net) application which is a platform that compiles the best affiliate marketing links for customers
+I am currently working on the [Big O Deals](https://bigodeals.net) application which is a platform that compiles the best affiliate marketing links for customers
 to offer them access to exclusive discounts and promotions. <br/>
 
-You can view a video demo of the application on [Youtube](youtube.com/mlamlilolwane) which will give you an all round view of both the client and admin applications.
+You can view a video demo of the application on [Youtube](https://youtube.com/mlamlilolwane) which will give you an all round view of both the client and admin applications.
 Source code to the projects is available on request.
 
 <br/>
