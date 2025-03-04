@@ -16,7 +16,7 @@ I’m currently working on Big O Deals, a platform that aggregates top affiliate
 <br/>
 
 
-## 🚀 Open to Work!
+## 🔎 Open to Work!
 
 <br/>
 
@@ -24,7 +24,7 @@ I’m actively looking for full-time, contract, or freelance opportunities in fu
 
 📧 Email: mrlolwane96@gmail.com <br/>
 📞 Cellphone: 068 215 2904 <br/>
-🔗 LinkedIn: [www.linkedin.com/in/mlamli-lolwane-3ba96b196](www.linkedin.com/in/mlamli-lolwane-3ba96b196)
+🔗 LinkedIn: [www.linkedin.com/in/mlamli-lolwane-3ba96b196](www.linkedin.com/in/mlamli-lolwane-3ba96b196) <br/>
 📄 Curriculum Vitae: https://bit.ly/3nzqyg8 
 <br/>
 
