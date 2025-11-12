@@ -3,45 +3,22 @@
 
 My name is Mlamli Lolwane, a fullstack developer who is passionate about developing scalable, high-performance applications that enhance user experiences and solve real-world problems.
 
-I obtained my National Diploma in Information Technology (Software Development) from the Nelson Mandela University. 
-<br/>
+I have 2 years experience working as an IT Technician intern at the North West Department of Health.
 
+Although this program has equipped me with robust technical skills in system diagnostics, network
+administration, problem solving as well as people skills, my true passion lies in Software Development. 
 
-## 📌 What I’m Working On
+I hold a National Diploma in Information Technology (Software Development) from the Nelson Mandela University and aim to use the skills I obtained through the internship as well as my strong academic foundation to smoothly transition and become one of the best software developers in the country. 
 
-<br/>
-I’m currently working on Big O Deals, a platform that aggregates top affiliate marketing deals, providing customers with exclusive discounts. 
-<br/>
+I’m actively seeking full-time, contract, or freelance roles in fullstack, backend, or frontend development. If you’re hiring or have an exciting project, let’s connect!
 
-🎥 <a href="https://youtube.com/MlamliLolwane1"> Watch the Demo on YouTube </a> (Demo showcasing both the client and admin applications). 
-<br/>
+📧 Email: mrlolwane96@gmail.com
+📞 Cell: 067 197 4979
 
-🛠️ Source code available on request.
-<br/>
+Let’s connect and collaborate on innovative solutions.
 
 
 ## 🔎 Open to Work!
-
-<br/>
-
-I’m actively looking for full-time, contract, or freelance opportunities in fullstack, backend, or frontend development. If you're hiring or know of an exciting project, let’s connect!
-
-📧 Email: mrlolwane96@gmail.com <br/>
-📞 Cellphone: 068 215 2904 <br/>
-🔗 LinkedIn: [www.linkedin.com/in/mlamli-lolwane-3ba96b196](www.linkedin.com/in/mlamli-lolwane-3ba96b196) <br/>
-📄 Curriculum Vitae: https://bit.ly/3nzqyg8 
-<br/>
-
-
-## 💻 Tech Stack
-
-⚙️ Backend: Laravel, ASP.NET Core, Node.js. <br/>
-🎨 Frontend: ReactJS, JavaScript, TypeScript, Bootstrap, Tailwind CSS. <br/>
-🛢️ Databases: MySQL, SQL Server, Redis, Mongo DB.
-<br/>
-
-*I am not only limited to the above mentioned technologies and frameworks as I believe that once you understand
-the concepts and logic behind software development, then adopting new technologies, frameworks and tools should be fairly easy.* <br/><br/>
 
 
 ---
