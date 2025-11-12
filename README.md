@@ -12,8 +12,9 @@ I hold a National Diploma in Information Technology (Software Development) from 
 
 I’m actively seeking full-time, contract, or freelance roles in fullstack, backend, or frontend development. If you’re hiring or have an exciting project, let’s connect!
 
-📧 Email: mrlolwane96@gmail.com
-📞 Cell: 067 197 4979
+📧 Email: mrlolwane96@gmail.com <br/>
+📞 Cell: 067 197 4979 <br/>
+🌐 Portfolio: https://bit.ly/MLolwane
 
 Let’s connect and collaborate on innovative solutions.
 
